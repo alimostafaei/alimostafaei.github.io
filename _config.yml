@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amir H. Rassafi"
+title                    : "Ali Mostafaei"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://amirrassafi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ali Mostafaei"
+description              : &description "Web Designer & Web Developer"
+url                      : https://alimostafaei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amirrassafi/amirrassafi.github.io"
+repository               : "amirrassafi/alimostafaei.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amir H. Rassafi"
-  avatar           : "profile.png"
-  bio              : "Master student of Electrical Engineering"
+  name             : "Ali Mostafaei"
+  avatar           : "photo_2019-03-27_00-10-50.jpg"
+  bio              : "student of Shahid Rajaee Teacher Training University"
   location         : 
   employer         :
   pubmed           : 
@@ -96,12 +96,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/amirrassafi"
+  github           : "https://github.com/alimostafaei"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/amir-rassafi/"
+  linkedin         : #
   orcid            : 
   pinterest        :
   soundcloud       :
