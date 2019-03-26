@@ -10,4 +10,3 @@ redirect_from:
 
 I am a student of Shahid Rajaee Teacher Training University.
 I like programing in web
-I work for myself
